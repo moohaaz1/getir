@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ced2d5;
+}
+.logo {
+  text-align: center;
+  background-color: #463bac;
+  padding: 13px;
+  color: white;
+}
+.cont2 {
+  color: #463bac;
+  font-size: 60px;
+  border: 1px solid rgba(219, 219, 219, 0.518);
+  border-bottom: 10px;
+}
+.cont1 {
+  display: flex;
+  gap: 10px;
+  border-bottom: 1px solid rgb(228, 228, 228);
+}
+.conticon {
+  position: absolute;
+  margin-left: 85%;
+  font-size: 20px;
+  background-color: white;
+  margin-top: -25px;
+  padding: 10px;
+  color: #463bac;
+  border-radius: 10px;
+}
+.contect {
+  background-color: white;
+  margin-top: 15px;
+  padding-top: 15px;
+  height: 30vh;
+}
+.cont3 {
+  font-size: 10px;
+  padding-top: 25px;
+}
+.mail {
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+  padding-top: 18px;
+}
+.mail2 {
+  display: flex;
+  gap: 25px;
+}
+.mail1 {
+  font-size: 25px;
+  color: orange;
+}
+.mailbutton button {
+  padding: 10px;
+  border: 1px solid #463bac;
+  border-radius: 6px;
+  color: #463bac;
+  font-weight: 600;
+}
+.mail3 {
+  color: gray;
+}
+.mail {
+  border-bottom: 1px solid rgb(228, 228, 228);
+}
+.mail5 {
+  display: flex;
+  gap: 10px;
+  color: gray;
+  padding: 10px;
+}
+.mail6 {
+  color: #463bac;
+  font-size: 25px;
+}
+.mail7 {
+  font-size: 15px;
+}
+.sec {
+  display: flex;
+  gap: 10px;
+  padding: 12px;
+  border-bottom: 1px solid rgb(228, 228, 228);
+}
+.sec3 {
+  display: flex;
+}
+.sec2 {
+  font-size: 25px;
+  color: orange;
+}
+.sec5 {
+  margin-left: 235px;
+  font-size: 25px;
+}
+.sec1 {
+  background-color: white;
+  margin-top: 20px;
+  padding-top: 10px;
+  height: 52vh;
+}
+.sec4 {
+  color: gray;
+}
+.sec6 {
+  color: #463bac;
+}
+.sec7 {
+  font-size: 25px;
+  color: #463bac;
+}
